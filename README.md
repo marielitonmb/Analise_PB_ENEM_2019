@@ -1,2 +1,5 @@
-# Analise_PB_ENEM_2019
- Análise de dados dos participantes paraibanos no ENEM 2019
+# Análise_PB_ENEM_2019
+
+Nesse projeto foi usado uma amostra dos dados dos participantes do ENEM 2019 e nele foram aplicados técnicas de ciência de dados e de machine learning para cumprir o último desafio lançado na 2ª Imersão de Dados feito pela Alura.
+
+Todas as análises foram feitas em cima dos participantes paraibanos.
